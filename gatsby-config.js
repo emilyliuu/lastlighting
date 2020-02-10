@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/lastlighting`,
   siteMetadata: {
     title: `Gatsby Starter Blog`,
     author: `Kyle Mathews`,
